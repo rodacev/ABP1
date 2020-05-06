@@ -25,6 +25,13 @@ namespace Negocio.aplicacion.regla
             }
         }
 
+        public void MetodoGit()
+        {
+
+        }
+
+
+
 
 
 
