@@ -1,0 +1,7 @@
+C:\Users\Rodrigo\source\repos\OnBreakDos\Negocio\bin\Debug\Negocio.exe.config
+C:\Users\Rodrigo\source\repos\OnBreakDos\Negocio\bin\Debug\Negocio.exe
+C:\Users\Rodrigo\source\repos\OnBreakDos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Rodrigo\source\repos\OnBreakDos\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Rodrigo\source\repos\OnBreakDos\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\OnBreakDos\Negocio\obj\Debug\Negocio.exe
+C:\Users\Rodrigo\source\repos\OnBreakDos\Negocio\obj\Debug\Negocio.pdb
