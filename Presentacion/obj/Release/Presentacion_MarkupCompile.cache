@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\USUARIO\Source\Repos\ABP1\Presentacion\obj\Debug\
+C:\Users\USUARIO\Source\Repos\ABP1\Presentacion\obj\Release\
 Presentacion
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\USUARIO\Source\Repos\ABP1\Presentacion\App.xaml
 5-114809718
 
-101706554232
-15184656744
+9947910554
+15257757592
 aplicacion\controlador\VentanaAgregarCliente.xaml;aplicacion\controlador\VentanaAgregarContrato.xaml;aplicacion\controlador\VentanaBuscarCliente.xaml;aplicacion\controlador\VentanaBuscarContrato.xaml;MainWindow.xaml;
 
 True
